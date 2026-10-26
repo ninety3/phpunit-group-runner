@@ -1,0 +1,5 @@
+{
+    "roots": ["tests/Unit", "tests/Feature"],
+    "skip": ["tests/Feature/Payment"],
+    "command": "php artisan test"
+}
